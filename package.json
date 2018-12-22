@@ -1,0 +1,25 @@
+{
+  "name": "project-korvas",
+  "version": "1.0.0",
+  "description": "band website, korvas",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenundrim/project1.git"
+  },
+  "keywords": [
+    "band",
+    "korvas"
+  ],
+  "author": "Kenundrim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenundrim/project1/issues"
+  },
+  "homepage": "https://github.com/kenundrim/project1#readme"
+}
